@@ -1,2 +1,16 @@
 # Portfolio
-Research and activity portfolio — Hanbat National University · EcoAI Lab
+
+연구와 활동을 정리한 기록입니다. 각 항목에서 소개와 자료 공개 현황을 확인할 수 있습니다.
+
+[GitHub 프로필로 돌아가기](https://github.com/Kjh753)
+
+## 2026
+
+| 기간 | 연구·활동 | 자료 현황 |
+| --- | --- | --- |
+| 2026.11.19–11.20 (예정) | [한국통신학회 추계종합학술발표회(예정)](2026/1119_1120_KICS/README.md) | 소개 작성 · 자료 추가 예정 |
+| 2026.09.04–09.06 | [국제로봇올림피아드(IRO) 운영요원](2026/0904_0906_IRO/README.md) | 소개 작성 · 자료 추가 예정 |
+
+## Contact
+
+[20251779@edu.hanbat.ac.kr](mailto:20251779@edu.hanbat.ac.kr)
