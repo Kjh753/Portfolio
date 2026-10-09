@@ -1,6 +1,6 @@
 [← Portfolio](../../README.md) · [프로필](https://github.com/Kjh753)
 
-# 국제로봇올림피아드(IRO) 운영요원
+# 국제로봇올림피아드(IRO) 진행요원
 
 | 구분 | 내용 |
 | --- | --- |
